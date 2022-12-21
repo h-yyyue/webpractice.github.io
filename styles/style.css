@@ -1,0 +1,8 @@
+p,
+li,
+img[src],
+a:hover{
+  color: rgb(14, 67, 92);
+  width: 500px;
+  border: 2px solid rgb(43, 29, 123);
+}
